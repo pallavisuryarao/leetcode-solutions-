@@ -11,7 +11,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 | # | Problem Name | Difficulty | Concepts |
 |---|-------------|------------|----------|
 | 175 | Combine Two Tables | Easy | LEFT JOIN |
-
+|176	|Second Highest Salary |	Easy |	Subquery, MAX() |
 ## 🎯 Goal
 To strengthen problem-solving skills and core database concepts through consistent practice.
 
