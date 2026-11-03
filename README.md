@@ -5,6 +5,7 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 
 ## 📌 Topics Covered
 - SQL (MySQL)
+- Python (DSA)
 
 
 ## 📂 SQL Problems
@@ -12,6 +13,15 @@ This repository contains my solutions to LeetCode problems, organized by topic a
 |---|-------------|------------|----------|
 | 175 | Combine Two Tables | Easy | LEFT JOIN |
 |176	|Second Highest Salary |	Easy |	Subquery, MAX() |
+
+
+## 🐍 Python Problems
+
+| # | Problem Name | Difficulty | Concepts |
+|---|--------------|------------|----------|
+| 1 | Two Sum | Easy | Hash Map |
+
+
 ## 🎯 Goal
 To strengthen problem-solving skills and core database concepts through consistent practice.
 
